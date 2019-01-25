@@ -1,0 +1,37 @@
+/*Large Devices Laptop Desktops*/
+@media(min-width: 1260px) and (max-width:1299px) {
+    /*Navigation*/  
+    .site-nav-wrapper{
+        padding: 0 20px;
+    }
+    
+  
+}
+
+
+
+/*Medium Devices tablets*/
+@media(min-width:992px) and (max-width:1259px){
+    ul.navbar-nav > li >a{
+        color: blue;
+    }
+    .site-nav-wrapper{
+        padding: 0 20px;
+        color: blue;
+    }
+} 
+
+/*small Devices */
+@media(min-width:768px) and (max-width:991px){
+    
+    ul.navbar-nav > li >a{
+        color: greenyellow;
+    }
+} 
+
+@media(max-width:767px){
+    
+    ul.navbar-nav > li >a{
+        color: deeppink;
+    }
+} 

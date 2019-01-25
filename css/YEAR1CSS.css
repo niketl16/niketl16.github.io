@@ -1,0 +1,122 @@
+.grid-container{
+    display: inline-grid;
+    grid-template-columns: 140px 200px 70px 70px 70px;
+    text-align: center;
+    margin: 0;
+}
+
+.grid-container .title{
+    font-size: 30px;
+    font-family: algerian;
+    padding-bottom: 5px;
+    
+}
+
+.grid-item{
+    padding-bottom: 10px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.GRID{
+    text-align: center;
+}
+
+html, body{
+    background-image: url(../img/header-bg.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    
+    
+}
+
+
+}
+.navbar{
+    padding: 35px 0 20px 0;
+    
+}
+.site-nav-wrapper{
+    padding: 0 85px;
+}
+.navbar-brand{
+    padding: 13px 15px;
+}
+ul.navbar-nav > li >a{
+    font-family: sans-serif;
+    color: black;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+ul.navbar-nav > li >a:hover,
+ul.navbar-nav > li >a:focus{
+    background-color: yellow;
+    border-radius: 15px;
+}
+.maintitle{
+    text-align: center;
+    font-style: italic;
+    font-family: algerian;
+    text-transform: uppercase;
+    
+}
+
+
+
+/*
+ <header>
+        <nav class="navbar navbar-fixed-top ">
+            <div class="container-fluid">
+                <div class="site-nav-wrapper">
+
+                    <div class="navbar-header">
+
+                        <!-- Mobile Menu Open Button 
+                        <span id="mobile-nav-open-btn">&#9776;</span>
+
+                        <!-- Logo -->
+                        <a class="navbar-brand " href="#home">
+                            <img id="mainlogo" src="../img/logo/logo.PNG" alt="logo">
+                        </a>
+                    </div>
+
+*/
+.navbar-brand img {
+    
+}
+#mainlogo{
+    width: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
